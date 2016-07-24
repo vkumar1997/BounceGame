@@ -1,0 +1,103 @@
+firee.png
+size: 1162, 120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f0
+  rotate: false
+  xy: 0, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 83, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 166, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 249, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+f4
+  rotate: false
+  xy: 332, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+f5
+  rotate: false
+  xy: 415, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+f6
+  rotate: false
+  xy: 498, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+f7
+  rotate: false
+  xy: 581, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+f8
+  rotate: false
+  xy: 664, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+f9
+  rotate: false
+  xy: 747, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+fi0
+  rotate: false
+  xy: 830, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+fi1
+  rotate: false
+  xy: 913, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+fi2
+  rotate: false
+  xy: 996, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+fi3
+  rotate: false
+  xy: 1079, 0
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1

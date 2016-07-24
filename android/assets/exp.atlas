@@ -1,0 +1,75 @@
+exp.png
+size: 1808, 804
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1
+  rotate: false
+  xy: 0, 0
+  size: 361, 340
+  orig: 361, 340
+  offset: 0, 0
+  index: -1
+ex0
+  rotate: false
+  xy: 361, 0
+  size: 361, 371
+  orig: 361, 371
+  offset: 0, 0
+  index: -1
+e6
+  rotate: false
+  xy: 722, 0
+  size: 360, 376
+  orig: 360, 376
+  offset: 0, 0
+  index: -1
+e9
+  rotate: false
+  xy: 1082, 0
+  size: 361, 384
+  orig: 361, 384
+  offset: 0, 0
+  index: -1
+e4
+  rotate: false
+  xy: 1443, 0
+  size: 360, 385
+  orig: 360, 385
+  offset: 0, 0
+  index: -1
+e5
+  rotate: false
+  xy: 0, 385
+  size: 361, 397
+  orig: 361, 397
+  offset: 0, 0
+  index: -1
+e3
+  rotate: false
+  xy: 361, 385
+  size: 361, 410
+  orig: 361, 410
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 722, 385
+  size: 363, 411
+  orig: 363, 411
+  offset: 0, 0
+  index: -1
+e7
+  rotate: false
+  xy: 1085, 385
+  size: 363, 418
+  orig: 363, 418
+  offset: 0, 0
+  index: -1
+e8
+  rotate: false
+  xy: 1448, 385
+  size: 360, 419
+  orig: 360, 419
+  offset: 0, 0
+  index: -1
